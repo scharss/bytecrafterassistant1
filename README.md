@@ -41,7 +41,7 @@ The application uses Docker to work consistently across all platforms. Follow th
 
 2. **Clone/Download the Repository**:
    ```powershell
-   git clone https://github.com/your-username/your-repository
+   git clone [https://github.com/your-username/your-repository](https://github.com/scharss/bytecrafterassistant1.git)
    cd your-repository
    ```
    Or download and extract the repository ZIP
@@ -69,7 +69,7 @@ The application uses Docker to work consistently across all platforms. Follow th
 
 2. **Clone/Download the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository
+   git clone [https://github.com/your-username/your-repository](https://github.com/scharss/bytecrafterassistant1.git)
    cd your-repository
    ```
    Or download and extract the repository ZIP
@@ -117,7 +117,7 @@ The application uses Docker to work consistently across all platforms. Follow th
 
 3. **Clone/Download the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository
+   git clone [https://github.com/your-username/your-repository](https://github.com/scharss/bytecrafterassistant1.git)
    cd your-repository
    ```
    Or download and extract the repository ZIP
