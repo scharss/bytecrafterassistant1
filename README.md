@@ -52,7 +52,7 @@ The application uses Docker to work consistently across all platforms. Follow th
 
 4. **Download an AI Model**:
    ```powershell
-   docker exec -it [DIRECTORY_NAME]-ollama-1 bash
+   docker exec -it bytecrafterassistant1-ollama-1 bash
    ollama pull qwen2.5-coder:7b
    exit
    ```
@@ -80,7 +80,7 @@ The application uses Docker to work consistently across all platforms. Follow th
 
 4. **Download an AI Model**:
    ```bash
-   docker exec -it [DIRECTORY_NAME]-ollama-1 bash
+   docker exec -it bytecrafterassistant1-ollama-1 bash
    ollama pull qwen2.5-coder:7b
    exit
    ```
@@ -128,7 +128,7 @@ The application uses Docker to work consistently across all platforms. Follow th
 
 5. **Download an AI Model**:
    ```bash
-   docker exec -it [DIRECTORY_NAME]-ollama-1 bash
+   docker exec -it bytecrafterassistant1-ollama-1 bash
    ollama pull qwen2.5-coder:7b
    exit
    ```
